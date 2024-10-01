@@ -1,8 +1,7 @@
 ## Introduction
-
+Welcome to the Sam Blog App documentation!
 
 ## Getting Started
-Welcome to the Sam Blog App documentation!
 This project is a robust, feature-packed blog platform built with Django, designed for both bloggers and readers. It offers an intuitive, user-friendly interface that makes creating, managing, and engaging with blog posts seamless. Whether you’re a seasoned Django developer or a first-time user, this documentation will guide you through the setup, functionality, and features of the app. Dive in to discover how Sam Blog App can enhance your blogging experience!
 
 ### Installation
