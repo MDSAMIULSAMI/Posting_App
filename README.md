@@ -49,7 +49,7 @@ pip3 install Django
 5. Install project dependencies:
 
    ```bash
-   pip3 install --upgrade asgiref Django django-crispy-forms djangorestframework Pillow pytz sqlparse typing_extensions tzdata
+   pip3 install --upgrade asgiref Django django-crispy-forms crispy-bootstrap4 djangorestframework Pillow pytz sqlparse typing_extensions tzdata
    ```
 
 6. Run the development server:
